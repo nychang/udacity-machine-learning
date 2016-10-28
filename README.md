@@ -1,4 +1,6 @@
-# Udacity Machine Learning Nanodegree
+# Udacity Machine Learning Engineer Nanodegree
+[Program Homepage](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+
 ## Setup
 
 Install Python 2.7, the following Python libraries, and Jupyter Notebook:
