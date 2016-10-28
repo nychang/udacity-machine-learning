@@ -3,7 +3,7 @@
 
 ## Setup
 
-Install Python 2.7, the following Python libraries, and Jupyter Notebook:
+Install Python 2.7, Jupyter Notebook, and the following Python libraries:
 
 - NumPy
 - Pandas
